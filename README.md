@@ -1,2 +1,2 @@
 # Python
-python repository
+This is my first Python Repository
